@@ -2,6 +2,8 @@
   text-align: center;
 }
 
+@import 'react-svg-donuts/dist/index.css';
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
